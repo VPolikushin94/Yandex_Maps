@@ -3,7 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/bottom_sheet_background.xml" value="0.1035" />
+        <entry key="app/src/main/res/drawable/ic_charged.xml" value="0.1035" />
+        <entry key="app/src/main/res/drawable/ic_charged_half.xml" value="0.1035" />
+        <entry key="app/src/main/res/drawable/ic_scooter.xml" value="0.1555" />
+        <entry key="app/src/main/res/drawable/radio_flat_regular.xml" value="0.1555" />
+        <entry key="app/src/main/res/drawable/radio_flat_selected.xml" value="0.1555" />
+        <entry key="app/src/main/res/drawable/radio_flat_selector.xml" value="0.1555" />
+        <entry key="app/src/main/res/drawable/radio_flat_text_selector.xml" value="0.1555" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2864583333333333" />
+        <entry key="app/src/main/res/layout/marker_bottom_sheet_info.xml" value="0.30052083333333335" />
+        <entry key="app/src/main/res/layout/marker_info.xml" value="0.30052083333333335" />
       </map>
     </option>
   </component>

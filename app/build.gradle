@@ -3,10 +3,6 @@ plugins {
     id 'org.jetbrains.kotlin.android'
 }
 
-Properties properties = new Properties()
-properties.load(project.rootProject.file('local.properties').newDataInputStream())
-def mapApiKey = properties.getProperty('MAPS_API_KEY')
-
 android {
     compileSdk 32
 

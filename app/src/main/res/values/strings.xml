@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Yandex Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="reserve">Забронировать</string>
+    <string name="bs_button_minutes">минуты\n7 ₽/мин</string>
+    <string name="bs_button_30_minutes">30 минут\n120 ₽</string>
+    <string name="bs_button_hour">1 час\n300 ₽</string>
+    <string name="charge_percents">%d\%%</string>
+    <string name="place_lat_lng">%f, %f</string>
+    <string name="coords">Координаты:</string>
+    <string name="scooter">Самокат:</string>
 </resources>

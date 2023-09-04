@@ -8,3 +8,13 @@ plugins {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+ext {
+    mapApiKey = getMapkitApiKey()
+}
+
+private String getMapkitApiKey() {
+    def properties = new Properties()
+    project.file("local.properties").withInputStream { properties.load(it) }
+    return properties.getProperty("MAPS_API_KEY", "")
+}
